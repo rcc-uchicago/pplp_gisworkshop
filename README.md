@@ -18,7 +18,7 @@ The Public Policy Leaders Program (PPLP) is a selective track within Careers in 
 3. Software and packages for GIS analysis
 4. Basic GIS operations.
 
-<a href="Day1-Introduction to Geospatial Concepts.pdf" target="_blank">Day1-Introduction_to_Geospatial_Concepts.pdf</a>
+<a href="https://github.com/rcc-uchicago/pplp_gisworkshop/blob/main/Day1-Introduction_to%20_Geospatial%20_Concepts.pdf" target="_blank">Day1 slides</a>
 
 **April 16, 2021: Introduction to Vector GIS**
 
@@ -26,13 +26,19 @@ The Public Policy Leaders Program (PPLP) is a selective track within Careers in 
 2. Spatial Analysis with Vector data
 3. Geocoding
 
+Day2 slides
+
 **April 23, 2021: Introduction to Raster GIS**
 
 1. Making sense of Satellite images
 2. Spatial Analysis with raster data
 3. Geo-referencing
 
+Day3 slides
+
 **April 30, 2021: Introduction to Web mapping**
 
 1. Exploring ArcGIS online
 2. Web mapping packages
+
+Day4 slides
