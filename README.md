@@ -18,6 +18,8 @@ The Public Policy Leaders Program (PPLP) is a selective track within Careers in 
 3. Software and packages for GIS analysis
 4. Basic GIS operations.
 
+<a href="Day1-Introduction to Geospatial Concepts.pdf" target="_blank">Day1-Introduction_to_Geospatial_Concepts.pdf</a>
+
 **April 16, 2021: Introduction to Vector GIS**
 
 1. Understanding the Census
