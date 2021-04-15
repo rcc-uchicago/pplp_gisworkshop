@@ -26,7 +26,9 @@ The Public Policy Leaders Program (PPLP) is a selective track within Careers in 
 2. Spatial Analysis with Vector data
 3. Geocoding
 
-Day2 slides
+Day2 slides (available on April 16)
+##### 
+##### <a href="https://uchicagoedu-my.sharepoint.com/:f:/g/personal/pnsinha_uchicago_edu/Eo33BbpJ34ZGkqPAV95R_asBoVnQnDEspZ246KMBwqpzUA?e=gmx8pg" target="_blank">Day2 Files</a>
 
 **April 23, 2021: Introduction to Raster GIS**
 
