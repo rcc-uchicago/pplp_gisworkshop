@@ -39,7 +39,8 @@ The Public Policy Leaders Program (PPLP) is a selective track within Careers in 
 3. Geo-referencing
 
 Reference Materials: https://crisp.nus.edu.sg/~research/tutorial/opt_int.htm 
-Day3 slides
+
+* Day3 slides 
 * <a href="https://uchicagoedu-my.sharepoint.com/:f:/g/personal/pnsinha_uchicago_edu/EqiDkqn4ZJlBpREu5vrpe5cBX7pEW1HKF6JUpFV0-d6Kwg?e=nxFJxU" target="_blank">Day3 Files Link</a>
 
 **April 30, 2021: Introduction to Web mapping**
