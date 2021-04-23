@@ -18,17 +18,19 @@ The Public Policy Leaders Program (PPLP) is a selective track within Careers in 
 3. Software and packages for GIS analysis
 4. Basic GIS operations.
 
-<a href="https://github.com/rcc-uchicago/pplp_gisworkshop/blob/main/Day1-Introduction_to%20_Geospatial%20_Concepts.pdf" target="_blank">Day1 slides</a>
+* <a href="https://github.com/rcc-uchicago/pplp_gisworkshop/blob/main/Day1-Introduction_to%20_Geospatial%20_Concepts.pdf" target="_blank">Day1 slides</a>
 
 **April 16, 2021: Introduction to Vector GIS**
 
 1. Understanding the Census
 2. Spatial Analysis with Vector data
 3. Geocoding
-
-Day2 slides (available on April 16)
 ##### 
-##### <a href="https://uchicagoedu-my.sharepoint.com/:f:/g/personal/pnsinha_uchicago_edu/Eo33BbpJ34ZGkqPAV95R_asBoVnQnDEspZ246KMBwqpzUA?e=gmx8pg" target="_blank">Day2 Files</a>
+* Day2 slides
+
+* <a href="https://uchicagoedu-my.sharepoint.com/:f:/g/personal/pnsinha_uchicago_edu/Eo33BbpJ34ZGkqPAV95R_asBoVnQnDEspZ246KMBwqpzUA?e=gmx8pg" target="_blank">Day2 Files Link</a>    
+
+
 
 **April 23, 2021: Introduction to Raster GIS**
 
@@ -36,7 +38,9 @@ Day2 slides (available on April 16)
 2. Spatial Analysis with raster data
 3. Geo-referencing
 
+Reference Materials: https://crisp.nus.edu.sg/~research/tutorial/opt_int.htm 
 Day3 slides
+* <a href="https://uchicagoedu-my.sharepoint.com/:f:/g/personal/pnsinha_uchicago_edu/EqiDkqn4ZJlBpREu5vrpe5cBX7pEW1HKF6JUpFV0-d6Kwg?e=nxFJxU" target="_blank">Day3 Files Link</a>
 
 **April 30, 2021: Introduction to Web mapping**
 
