@@ -48,4 +48,4 @@ Reference Materials: https://crisp.nus.edu.sg/~research/tutorial/opt_int.htm
 1. Exploring ArcGIS online
 2. Web mapping packages
 
-Day4 slides
+<a href="https://uchicagoedu-my.sharepoint.com/:p:/g/personal/pnsinha_uchicago_edu/EQNEb2A5_FRIpjoKogs8GrYBhFQNp1K9uTCmBF4XbXa2rw?e=6sImas" target="_blank">Day4 slides</a>
